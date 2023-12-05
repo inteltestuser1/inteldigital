@@ -256,6 +256,19 @@
 
   const dashBoards = [
     {
+      title: "Sales Analysis 2",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMTUwZDI0YmItZWQwYS00OGFjLWE3MzYtZDlhMTczODM3MGE3IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc: "",
+    },
+    {
+      title: "Finance Analysis 2",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMjc4ODgyMDMtZGFmOC00ZTA1LWExZGYtYzgyMWRlNjRlYjI1IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMzI0ZjQ1NTktMDQxOC00MDFjLWIwYzItOGU0MjcyM2NhNmNmIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Airline Analysis (Safety) 2",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiYjRkMjJlZTUtYmNjZi00MjY0LWE3ZmMtMWFmMTM2NjJjZTNkIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
