@@ -256,6 +256,13 @@
 
   const dashBoards = [
     {
+      title: 'Healthcare "Staff" Analysis 3',
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiNWI1ODNkNmQtNjgzYy00MGU3LWFhYzctYThiNTdjYTRiYzQ0IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9  ",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiNTA3M2U3MTktOTU4My00ZjQyLWFlZmYtYjYwYjQ5NWU4OTYwIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Healthcare Analysis 2",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiMzU2OWRhMDctMDU3Mi00NzBhLTgxNDAtNzRmNjZkZmNkYWU1IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",

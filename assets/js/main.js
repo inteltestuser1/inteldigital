@@ -256,10 +256,32 @@
 
   const dashBoards = [
     {
+      title: "Sales Report 4",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMDcwYTllNGYtY2I3NC00MjEzLTg3MjAtZTkyZWU3YzY3ZTgzIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiOWRlMTkzY2YtMzQ1My00N2Y0LTg1ZTktZjY0NzljMWU1ZmU2IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
+      title: 'Healthcare "Staff" Analysis 3',
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiNWI1ODNkNmQtNjgzYy00MGU3LWFhYzctYThiNTdjYTRiYzQ0IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9  ",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiNTA3M2U3MTktOTU4My00ZjQyLWFlZmYtYjYwYjQ5NWU4OTYwIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
+      title: "Sales Analysis 3",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiOWE3OGM4MzUtOWJhNi00MmYwLTlkYTctZmRmOTljZDNjOTU3IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiODc5OWNhYTgtMGY2Yy00MDcwLWI1MjQtOWIzNWU4NmM2YzgxIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Sales Analysis 2",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiMTUwZDI0YmItZWQwYS00OGFjLWE3MzYtZDlhMTczODM3MGE3IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
-      mobileSrc: "",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMTU0MDM3ZTQtZWQyZi00YmI1LWFhNGQtMTRkZmY0ZGM2MDA3IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
     },
     {
       title: "Finance Analysis 2",
