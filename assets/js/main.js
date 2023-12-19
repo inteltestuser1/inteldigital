@@ -256,6 +256,20 @@
 
   const dashBoards = [
     {
+      title: "Financial Analysis 3",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMDFkYmQzZTUtY2VmOC00MWVjLTlmYTEtMWNmNmZkYjU5NTNhIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMjUxNThlNmYtMzQyNC00YjU5LWEyODItZjc5MGEzNzY4OGM2IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
+      title: "Bank (Loan) Analysis 3",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMDM3ZjNkMjctMjlmOS00Y2U3LWI1ODEtM2FjYjcyNjg0NmM5IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZGI1M2YzNzktMzA4Zi00ZDY4LTgyYjktODgzNzVlMTA5YWMxIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Sales Report 4",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiMDcwYTllNGYtY2I3NC00MjEzLTg3MjAtZTkyZWU3YzY3ZTgzIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
