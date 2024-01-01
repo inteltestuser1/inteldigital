@@ -256,6 +256,13 @@
 
   const dashBoards = [
     {
+      title: "Sales Analysis 5",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZTMyMDU1MzEtZTZhMS00YTE4LWEzZjctZjYxYzk3ZjMxNzc5IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMWQxYjA2MTktNjFlYy00ZjQ3LWI3NTktMmRkM2EzYThkNDZlIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Sales Report 4",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiMDcwYTllNGYtY2I3NC00MjEzLTg3MjAtZTkyZWU3YzY3ZTgzIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",

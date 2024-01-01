@@ -256,6 +256,13 @@
 
   const dashBoards = [
     {
+      title: "Airline Delay Analysis 3",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZjY3MmJjMTktYWM0NC00NjM4LTlmY2QtZGNmYTM5ZjI4ZTkyIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiNmIwYWYxMWYtODAwMi00YTMwLWI2MjYtYzMwMWVmYmZhNDY4IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Airline Analysis (Safety) 2",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiYjRkMjJlZTUtYmNjZi00MjY0LWE3ZmMtMWFmMTM2NjJjZTNkIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",

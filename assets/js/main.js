@@ -256,6 +256,27 @@
 
   const dashBoards = [
     {
+      title: "Sales Analysis 5",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZTMyMDU1MzEtZTZhMS00YTE4LWEzZjctZjYxYzk3ZjMxNzc5IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiMWQxYjA2MTktNjFlYy00ZjQ3LWI3NTktMmRkM2EzYThkNDZlIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
+      title: "Bank (Laundering) Analysis 4",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZmEyYmY3MTItZTliZC00OTNhLWIwNjktNzFlN2ZmNmI2ODFhIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZTY2MzZmZDItZmIxNi00OWY1LTg3Y2UtYzllNzIxMDNiN2Y1IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
+      title: "Airline Delay Analysis 3",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZjY3MmJjMTktYWM0NC00NjM4LTlmY2QtZGNmYTM5ZjI4ZTkyIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiNmIwYWYxMWYtODAwMi00YTMwLWI2MjYtYzMwMWVmYmZhNDY4IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Financial Analysis 3",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiMDFkYmQzZTUtY2VmOC00MWVjLTlmYTEtMWNmNmZkYjU5NTNhIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",

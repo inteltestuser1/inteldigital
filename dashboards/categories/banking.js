@@ -256,6 +256,13 @@
 
   const dashBoards = [
     {
+      title: "Bank (Laundering) Analysis 4",
+      desktopSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZmEyYmY3MTItZTliZC00OTNhLWIwNjktNzFlN2ZmNmI2ODFhIiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+      mobileSrc:
+        "https://app.powerbi.com/view?r=eyJrIjoiZTY2MzZmZDItZmIxNi00OWY1LTg3Y2UtYzllNzIxMDNiN2Y1IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
+    },
+    {
       title: "Bank (Loan) Analysis 3",
       desktopSrc:
         "https://app.powerbi.com/view?r=eyJrIjoiMDM3ZjNkMjctMjlmOS00Y2U3LWI1ODEtM2FjYjcyNjg0NmM5IiwidCI6IjU0YzBhODc3LTRjNzUtNDMxZC1iMzY5LWY1Yzc3NDM5NjIzMSIsImMiOjZ9",
